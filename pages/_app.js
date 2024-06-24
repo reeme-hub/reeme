@@ -17,13 +17,13 @@ export default function App({ Component, pageProps }) {
         {/*====== Required meta tags ======*/}
         <meta charSet="utf-8" />
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
-        <meta name="description" content="Adventure, Tours, Travel" />
+        <meta name="description" content="Adventure, Tours, Travel,Bike for rent in leh,Bikes in leh, Ladakh top travel Agency,Best travel agency in leh,Best bike rentals in leh,bike rental in leh" />
         <meta
           name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
         {/*====== Title ======*/}
-        <title>Gowilds - Tours and Travel React NextJS Template</title>
+        <title>ReeMeAdventure |Bike|Trekking|Rafting|Tour</title>
         {/*====== Favicon Icon ======*/}
         <link
           rel="shortcut icon"
