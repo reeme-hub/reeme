@@ -142,7 +142,7 @@ const Footer = ({ bg, extraClass }) => {
               {/*=== Footer Text ===*/}
               <div className="footer-text">
                 <p>
-                  Copy@ 2023 <span style={{ color: "#F7921E" }}>GoWilds</span>,
+                  Copy@ 2024 <span style={{ color: "#F7921E" }}>ReeMeAdventure</span>,
                   All Right Reserved
                 </p>
               </div>
