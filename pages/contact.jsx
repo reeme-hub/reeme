@@ -41,12 +41,12 @@ const Contact = () => {
                 <div className="info">
                   <span className="title">Email Address</span>
                   <p>
-                    <a href="mailto:supportinfo@gmail.com">
-                      supportinfo@gmail.com
+                    <a href="mailto:info@reemeadventure.com">
+                      info@reemeadventure.com
                     </a>
                   </p>
                   <p>
-                    <a href="mailto:traveladventure.net">traveladventure.net</a>
+                   
                   </p>
                 </div>
               </div>
@@ -58,12 +58,12 @@ const Contact = () => {
                   <img src="assets/images/icon/icon-3.png" alt="icon" />
                 </div>
                 <div className="info">
-                  <span className="title">Hotline</span>
+                  <span className="title">Phone</span>
                   <p>
-                    <a href="tel:+000(123)45688">+000 (123) 456 88</a>
+                    <a href="tel:+917051292040">+91 7051292040</a>
                   </p>
                   <p>
-                    <a href="tel:+8596320">+859 63 20</a>
+                    <a href="tel:+91 9622225888">+91 9622225888</a>
                   </p>
                 </div>
               </div>
