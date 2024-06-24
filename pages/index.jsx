@@ -1400,7 +1400,7 @@ const Index = () => {
                   </div>
                   <div className="info">
                     <span className="title">Location</span>
-                    <p>55 Main Street, Australia</p>
+                    <p>Main Tukcha Road, Leh Ladakh (U.T) 194101</p>
                   </div>
                 </div>
               </div>
@@ -1413,7 +1413,7 @@ const Index = () => {
                   <div className="info">
                     <span className="title">Email</span>
                     <p>
-                      <a href="mailto:support@gmail.com">support@gmail.com</a>
+                      <a href="mailto:info@reemeadventure.com">info@reemeadventure.com</a>
                     </p>
                   </div>
                 </div>
@@ -1427,7 +1427,7 @@ const Index = () => {
                   <div className="info">
                     <span className="title">Hotline</span>
                     <p>
-                      <a href="tel:+000(123)456898">+000 (123) 456 898</a>
+                      <a href="tel:+91 9419352015">+91 9419352015</a>
                     </p>
                   </div>
                 </div>
