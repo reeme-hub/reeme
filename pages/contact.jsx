@@ -28,7 +28,7 @@ const Contact = () => {
                 </div>
                 <div className="info">
                   <span className="title">Office Location</span>
-                  <p>55 Main Street, 2nd Floor New York City</p>
+                  <p>Main Tukcha Road,Leh Ladakh(U.T) 194101 </p>
                 </div>
               </div>
             </div>
