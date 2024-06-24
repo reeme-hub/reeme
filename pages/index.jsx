@@ -1443,17 +1443,17 @@ const Index = () => {
                     </li>
                     <li>
                       <a href="#">
-                        <i className="fab fa-twitter" />
+                        <i className="fab fa-tripadvisor" />
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="https://www.instagram.com/reemeadventure/">
                         <i className="fab fa-instagram" />
                       </a>
                     </li>
                     <li>
                       <a href="#">
-                        <i className="fab fa-linkedin-in" />
+                        <i className="fab fa-youtube" />
                       </a>
                     </li>
                   </ul>
