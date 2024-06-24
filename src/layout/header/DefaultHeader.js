@@ -29,7 +29,7 @@ const DefaultHeader = () => {
                         </div>
                         <div className="info">
                           <span className="title">Office Address</span>
-                          <h5>583 Main Tukcha Road, Leh Ladakh (U.T) 194101 </h5>
+                          <h5>Main Tukcha Road, Leh Ladakh (U.T) 194101 </h5>
                         </div>
                       </div>
                     </div>
@@ -61,7 +61,7 @@ const DefaultHeader = () => {
                         <div className="info">
                           <span className="title">Drop a Line</span>
                           <h5>
-                            <a href="tel:+91 9419352015">+91 9419352015</a>
+                            <a href="tel:+91 9419352015">+91 9419352025</a>
                           </h5>
                         </div>
                       </div>
