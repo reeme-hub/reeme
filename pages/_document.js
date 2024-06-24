@@ -28,7 +28,7 @@ export default function Document() {
                 "marginLeft":20,
                 "marginRight":20,
                 "btnPosition":"leftt",
-                "whatsAppNumber":"911234567890",
+                "whatsAppNumber":"+917051292040",
                 "welcomeMessage":"Hello!\\nHow we can help you!",
                 "zIndex":999999,
                 "btnColorScheme":"light"
