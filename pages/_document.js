@@ -12,7 +12,33 @@ export default function Document() {
           src="//code.tidio.co/85rovogevbzji14mrsjotewxts0hogyr.js"
           async
         ></script>
-         
+           {/* Add DelightChat WhatsApp Widget script before the closing body tag */}
+        <script
+          async
+          src='https://d2mpatx37cqexb.cloudfront.net/delightchat-whatsapp-widget/embeds/embed.min.js'
+        ></script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              var wa_btnSetting = {
+                "btnColor":"#16BE45",
+                "ctaText":"WhatsApp Us",
+                "cornerRadius":40,
+                "marginBottom":20,
+                "marginLeft":20,
+                "marginRight":20,
+                "btnPosition":"leftt",
+                "whatsAppNumber":"911234567890",
+                "welcomeMessage":"Hello!\\nHow we can help you!",
+                "zIndex":999999,
+                "btnColorScheme":"light"
+              };
+              window.onload = () => {
+                _waEmbed(wa_btnSetting);
+              };
+            `,
+          }}
+        ></script>
       
       </body>
     </Html>
