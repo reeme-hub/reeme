@@ -29,7 +29,7 @@ export default function Document() {
                 "marginRight":20,
                 "btnPosition":"leftt",
                 "whatsAppNumber":"+917051292040",
-                "welcomeMessage":"Hello!\\nHow we can help you!",
+                "welcomeMessage":"Hello!\\nPlease help with traveling in Leh",
                 "zIndex":999999,
                 "btnColorScheme":"light"
               };
