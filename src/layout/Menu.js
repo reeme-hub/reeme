@@ -66,7 +66,7 @@ const MobileMenu = () => {
     <nav className="main-menu d-block d-xl-none">
       <ul>
         <li className="menu-item">
-          <Link href="/">Home 01</Link>
+          <Link href="/">Home</Link>
         </li>
         <li className="menu-item">
           <Link href="about">About Us</Link>
