@@ -59,8 +59,8 @@ const Footer = ({ bg, extraClass }) => {
                     <img
                       src={
                         bg === "gray"
-                          ? "assets/images/logo/Logo1.png"
-                          : "assets/images/logo/Logo1.png"
+                          ? "assets/images/logo/Logo2.png"
+                          : "assets/images/logo/Logo2.png"
                       }
                       alt="Site Logo"
                     />
