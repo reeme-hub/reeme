@@ -1475,7 +1475,7 @@ const Index = () => {
                     </p>
                     <a href="#" className="footer-logo">
                       <img
-                        src="assets/images/logo/Logo1.png"
+                        src="assets/images/logo/Logo2.png"
                         alt="Site Logo"
                       />
                     </a>
