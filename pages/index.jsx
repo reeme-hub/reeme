@@ -144,7 +144,7 @@ const Index = () => {
                 />
                 <div className="content">
                   <div className="text">
-                    <h4 className="title">Tent Camping Services</h4>
+                    <h4 className="title">Motorcycle Tour</h4>
                     <a href="#" className="icon-btn">
                       <i className="far fa-arrow-right" />
                     </a>
@@ -162,7 +162,7 @@ const Index = () => {
                 />
                 <div className="content">
                   <div className="text">
-                    <h4 className="title">Trailers and RV Spots</h4>
+                    <h4 className="title">Rafting</h4>
                     <a href="#" className="icon-btn">
                       <i className="far fa-arrow-right" />
                     </a>
@@ -180,7 +180,7 @@ const Index = () => {
                 />
                 <div className="content">
                   <div className="text">
-                    <h4 className="title">Adventure and Climbing</h4>
+                    <h4 className="title">Hiking</h4>
                     <a href="#" className="icon-btn">
                       <i className="far fa-arrow-right" />
                     </a>
@@ -198,7 +198,7 @@ const Index = () => {
                 />
                 <div className="content">
                   <div className="text">
-                    <h4 className="title">Couple Camping or Cabin</h4>
+                    <h4 className="title">Expeditions</h4>
                     <a href="#" className="icon-btn">
                       <i className="far fa-arrow-right" />
                     </a>
@@ -216,7 +216,7 @@ const Index = () => {
                 />
                 <div className="content">
                   <div className="text">
-                    <h4 className="title">Tent Camping Services</h4>
+                    <h4 className="title">Snow Leopard Sighting</h4>
                     <a href="#" className="icon-btn">
                       <i className="far fa-arrow-right" />
                     </a>
