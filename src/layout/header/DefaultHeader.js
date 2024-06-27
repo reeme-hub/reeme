@@ -61,7 +61,7 @@ const DefaultHeader = () => {
                         <div className="info">
                           <span className="title">Drop a Line</span>
                           <h5>
-                            <a href="tel:+91 9419352015">+91 9419352025</a>
+                            <a href="tel:+91 7051292040">+91 7051292040</a>
                           </h5>
                         </div>
                       </div>
