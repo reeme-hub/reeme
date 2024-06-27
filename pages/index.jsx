@@ -144,7 +144,7 @@ const Index = () => {
                 />
                 <div className="content">
                   <div className="text">
-                    <h4 className="title">Bike Tour</h4>
+                    <h4 className="title">Motorcycle Tour</h4>
                     <a href="#" className="icon-btn">
                       <i className="far fa-arrow-right" />
                     </a>
@@ -234,7 +234,7 @@ const Index = () => {
                 />
                 <div className="content">
                   <div className="text">
-                    <h4 className="title">Trailers and RV Spots</h4>
+                    <h4 className="title">Trekking</h4>
                     <a href="#" className="icon-btn">
                       <i className="far fa-arrow-right" />
                     </a>
@@ -270,7 +270,7 @@ const Index = () => {
                 />
                 <div className="content">
                   <div className="text">
-                    <h4 className="title">Couple Camping or Cabin</h4>
+                    <h4 className="title">Motorcycle Tour</h4>
                     <a href="#" className="icon-btn">
                       <i className="far fa-arrow-right" />
                     </a>
@@ -419,7 +419,7 @@ const Index = () => {
                           className="nav-link"
                           eventKey="tab2"
                         >
-                          Mountain Biking
+                          Motorcycle Tour
                         </Nav.Link>
                       </Nav.Item>
                       <Nav.Item as="li">
@@ -429,7 +429,7 @@ const Index = () => {
                           className="nav-link"
                           eventKey="tab3"
                         >
-                          Birdwatching
+                          Trekking
                         </Nav.Link>
                       </Nav.Item>
                       <Nav.Item as="li">
@@ -439,7 +439,7 @@ const Index = () => {
                           className="nav-link"
                           eventKey="tab4"
                         >
-                          Fishing
+                          Rafting
                         </Nav.Link>
                       </Nav.Item>
                       <Nav.Item as="li">
@@ -459,7 +459,7 @@ const Index = () => {
                           className="nav-link"
                           eventKey="tab6"
                         >
-                          Mountain Hiking
+                          Snowleopard Sighting
                         </Nav.Link>
                       </Nav.Item>
                     </Nav>
