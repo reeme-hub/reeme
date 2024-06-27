@@ -30,12 +30,13 @@ const Index = () => {
                     {/*=== Hero Content ===*/}
                     <div className="hero-content text-white">
                       <h1 data-animation="fadeInDown" data-delay=".4s">
-                        Travel &amp; Adventure Camping
+                        Travel &amp; Bike Tour
                       </h1>
                       <div className="text-button d-flex align-items-center">
                         <p data-animation="fadeInLeft" data-delay=".5s">
-                          Nunc et dui nullam aliquam eget velit. Consectetur
-                          nulla convallis viverra quisque eleifend
+                          Experience the thrill of biking through Leh's majestic landscapes with Reemeadv. 
+                          Our guided tours take you on an unforgettable adventure 
+                          through the Himalayas, valleys, and picturesque villages of Ladakh.
                         </p>
                         <div
                           className="hero-button"
@@ -72,12 +73,13 @@ const Index = () => {
                     {/*=== Hero Content ===*/}
                     <div className="hero-content text-white">
                       <h1 data-animation="fadeInDown" data-delay=".4s">
-                        Travel &amp; Adventure Tour
+                        Travel &amp; Trekking
                       </h1>
                       <div className="text-button d-flex align-items-center">
                         <p data-animation="fadeInLeft" data-delay=".5s">
-                          Nunc et dui nullam aliquam eget velit. Consectetur
-                          nulla convallis viverra quisque eleifend
+                          Embark on an adventure of a lifetime with Reemeadv's travel and trekking packages in Leh. 
+                          Explore the majestic Himalayas, valleys, and picturesque villages, 
+                          and experience the warm hospitality of the Ladakhi people.
                         </p>
                         <div
                           className="hero-button"
@@ -119,14 +121,12 @@ const Index = () => {
               <div className="about-content-box text-center mb-55 wow fadeInDown">
                 <div className="section-title mb-30">
                   <span className="sub-title">About Company</span>
-                  <h2>We Are Most Funning Company About Travel &amp; Tours</h2>
+                  <h2>Your premier travel partner for unforgettable adventures and experiences!</h2>
                 </div>
                 <p>
-                  Sit amet consectetur. Velit integer eu tincidunt scelerisque.
-                  Sodales volutpat neque fermentum malesuada scelerisque massa
-                  lacus. Ultrices eget leo cras odio blandit rhoncus eu. At
-                  feugiat condimentum massa integer iaculis sit sit. Sagittis
-                  vitae quis sed vitae congue
+                  Welcome to ReeMe Adventure, where we craft unforgettable adventures tailored to your unique interests and preferences.
+                  With years of experience exploring the world, we're dedicated to making your travels truly unforgettable. 
+                  Join us on an adventure that will leave you with lifelong memories
                 </p>
               </div>
             </div>
@@ -144,7 +144,7 @@ const Index = () => {
                 />
                 <div className="content">
                   <div className="text">
-                    <h4 className="title">Tent Camping Services</h4>
+                    <h4 className="title">Bike Tour</h4>
                     <a href="#" className="icon-btn">
                       <i className="far fa-arrow-right" />
                     </a>
@@ -162,7 +162,7 @@ const Index = () => {
                 />
                 <div className="content">
                   <div className="text">
-                    <h4 className="title">Trailers and RV Spots</h4>
+                    <h4 className="title">Trekking</h4>
                     <a href="#" className="icon-btn">
                       <i className="far fa-arrow-right" />
                     </a>
@@ -198,7 +198,7 @@ const Index = () => {
                 />
                 <div className="content">
                   <div className="text">
-                    <h4 className="title">Couple Camping or Cabin</h4>
+                    <h4 className="title">Rafting</h4>
                     <a href="#" className="icon-btn">
                       <i className="far fa-arrow-right" />
                     </a>
