@@ -144,7 +144,7 @@ const Index = () => {
                 />
                 <div className="content">
                   <div className="text">
-                    <h4 className="title">Motorcycle Tour</h4>
+                    <h4 className="title">Tent Camping Services</h4>
                     <a href="#" className="icon-btn">
                       <i className="far fa-arrow-right" />
                     </a>
@@ -162,7 +162,7 @@ const Index = () => {
                 />
                 <div className="content">
                   <div className="text">
-                    <h4 className="title">Rafting</h4>
+                    <h4 className="title">Trailers and RV Spots</h4>
                     <a href="#" className="icon-btn">
                       <i className="far fa-arrow-right" />
                     </a>
@@ -180,7 +180,7 @@ const Index = () => {
                 />
                 <div className="content">
                   <div className="text">
-                    <h4 className="title">Hiking</h4>
+                    <h4 className="title">Adventure and Climbing</h4>
                     <a href="#" className="icon-btn">
                       <i className="far fa-arrow-right" />
                     </a>
@@ -198,7 +198,7 @@ const Index = () => {
                 />
                 <div className="content">
                   <div className="text">
-                    <h4 className="title">Expeditions</h4>
+                    <h4 className="title">Couple Camping or Cabin</h4>
                     <a href="#" className="icon-btn">
                       <i className="far fa-arrow-right" />
                     </a>
@@ -216,7 +216,7 @@ const Index = () => {
                 />
                 <div className="content">
                   <div className="text">
-                    <h4 className="title">Snow Leopard Sighting</h4>
+                    <h4 className="title">Tent Camping Services</h4>
                     <a href="#" className="icon-btn">
                       <i className="far fa-arrow-right" />
                     </a>
@@ -384,7 +384,95 @@ const Index = () => {
         </div>
       </section>
       {/*====== End Hero Section ======*/}
-      
+      {/*====== Start Activity Section ======*/}
+      <section className="activity-section">
+        <div className="activity-wrapper-bgc  text-white black-bg">
+          <div className="container">
+            <div className="row justify-content-center">
+              <div className="col-xl-7">
+                <div className="section-title text-center mb-50 wow fadeInDown">
+                  <span className="sub-title">Popular Activity</span>
+                  <h2>Feel Real Adventure and Very Colse to Nature</h2>
+                </div>
+              </div>
+            </div>
+            <Tab.Container defaultActiveKey={"tab1"}>
+              <div className="row">
+                <div className="col-lg-4">
+                  {/*=== Activity Nav Tab ===*/}
+                  <div className="activity-nav-tab mb-50 wow fadeInLeft">
+                    <Nav as="ul" className="nav nav-tabs">
+                      <Nav.Item as="li">
+                        <Nav.Link
+                          as="a"
+                          href="#tab1"
+                          className="nav-link"
+                          eventKey="tab1"
+                        >
+                          Tent Camping
+                        </Nav.Link>
+                      </Nav.Item>
+                      <Nav.Item as="li">
+                        <Nav.Link
+                          as="a"
+                          href="#tab2"
+                          className="nav-link"
+                          eventKey="tab2"
+                        >
+                          Mountain Biking
+                        </Nav.Link>
+                      </Nav.Item>
+                      <Nav.Item as="li">
+                        <Nav.Link
+                          as="a"
+                          href="#tab3"
+                          className="nav-link"
+                          eventKey="tab3"
+                        >
+                          Birdwatching
+                        </Nav.Link>
+                      </Nav.Item>
+                      <Nav.Item as="li">
+                        <Nav.Link
+                          as="a"
+                          href="#tab4"
+                          className="nav-link"
+                          eventKey="tab4"
+                        >
+                          Fishing
+                        </Nav.Link>
+                      </Nav.Item>
+                      <Nav.Item as="li">
+                        <Nav.Link
+                          as="a"
+                          href="#tab5"
+                          className="nav-link"
+                          eventKey="tab5"
+                        >
+                          Mountain Hiking
+                        </Nav.Link>
+                      </Nav.Item>
+                      <Nav.Item as="li">
+                        <Nav.Link
+                          as="a"
+                          href="#tab6"
+                          className="nav-link"
+                          eventKey="tab6"
+                        >
+                          Mountain Hiking
+                        </Nav.Link>
+                      </Nav.Item>
+                    </Nav>
+                  </div>
+                </div>
+                <div className="col-lg-8">
+                  {/*=== Tab Content ===*/}
+                  <Tab.Content className="tab-content mb-50 wow fadeInRight">
+                    {/*=== Tab Pane ===*/}
+                    <Tab.Pane className="tab-pane fade" eventKey="tab1">
+                      <div className="row align-items-center">
+                        <div className="col-md-6">
+                          {/*=== Activity Content Box ===*/}
                           <div className="activity-content-box pl-lg-40">
                             <div className="icon">
                               <i className="flaticon-camp" />
