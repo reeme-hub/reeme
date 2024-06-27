@@ -21,9 +21,9 @@ const About = () => {
                   <h2>Explore GoWilds Real Adventure &amp; Travels</h2>
                 </div>
                 <p className="mb-30">
-                  Sit amet consectetur integer tincidunt sceleries noda lesry
-                  volutpat neque fermentum malesuada scelequecy leocras odio
-                  blandit rhoncus eues feugiat
+                 ReeMeAdventure Real Adventure & Travels, a Leh-based travel agency, specializes in organizing thrilling motorbike tours across the stunning landscapes of Ladakh. 
+                  Explore the rugged terrain of the Himalayas, ride through the scenic valleys, and experience the thrill of adventure as you navigate the winding roads. From the iconic Pangong Lake to the majestic Khardung La Pass, 
+                  ReeMeAdventure's expert guides will take you on an unforgettable journey, providing a unique blend of adventure, culture, and offbeat travel experiences.
                 </p>
                 <a href="#" className="main-btn filled-btn">
                   Learn More
