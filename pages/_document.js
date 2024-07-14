@@ -8,10 +8,11 @@ export default function Document() {
         <Main />
         <NextScript />
         {/* Add Tidio script */}
-        <script
-          src="//code.tidio.co/85rovogevbzji14mrsjotewxts0hogyr.js"
-          async
-        ></script>
+        <script src="https://chat.zerobot.ai/agent.js?a=Y1umVSmHX" async></script>
+        // <script
+        //   src="//code.tidio.co/85rovogevbzji14mrsjotewxts0hogyr.js"
+        //   async
+        // ></script>
            {/* Add DelightChat WhatsApp Widget script before the closing body tag */}
         <script
           async
