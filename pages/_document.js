@@ -14,10 +14,10 @@ export default function Document() {
           async
         ></script>*/
            {/* Add DelightChat WhatsApp Widget script before the closing body tag */}
-        <script
+        /*<script
           async
           src='https://d2mpatx37cqexb.cloudfront.net/delightchat-whatsapp-widget/embeds/embed.min.js'
-        ></script>
+        ></script>*/
         <script
           dangerouslySetInnerHTML={{
             __html: `
