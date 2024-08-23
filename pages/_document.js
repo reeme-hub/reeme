@@ -11,10 +11,10 @@ export default function Document() {
         <script src="https://chat.zerobot.ai/agent.js?a=Y1umVSmHX" async></script>
        
            {/* Add DelightChat WhatsApp Widget script before the closing body tag */}
-        /*<script
+         <script
           async
           src='https://d2mpatx37cqexb.cloudfront.net/delightchat-whatsapp-widget/embeds/embed.min.js'
-        ></script>*/
+        ></script>
         <script
           dangerouslySetInnerHTML={{
             __html: `
